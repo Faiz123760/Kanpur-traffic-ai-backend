@@ -1,0 +1,1694 @@
+[
+  {
+    "locality_name": "Pandu Nagar",
+    "location_profile": "Pandu Nagar is primarily a residential locality in Kanpur.",
+    "patterns": {
+      "weekday": {
+        "late_night_11pm_6am": 40.0,
+        "morning_rush_8am_11am": 15.0,
+        "mid_day_11am_4pm": 25.0,
+        "evening_rush_5pm_9pm": 15.0
+      },
+      "weekend": {
+        "morning_8am_12pm": 30.0,
+        "afternoon_12pm_5pm": 25.0,
+        "evening_5pm_10pm": 20.0
+      }
+    },
+    "specific_notes": "No specific sources found; local traffic is influenced by general city conditions."
+  },
+  {
+    "locality_name": "Om Nagar",
+    "location_profile": "Om Nagar is primarily a residential locality in Kanpur.",
+    "patterns": {
+      "weekday": {
+        "late_night_11pm_6am": 40.0,
+        "morning_rush_8am_11am": 15.0,
+        "mid_day_11am_4pm": 25.0,
+        "evening_rush_5pm_9pm": 15.0
+      },
+      "weekend": {
+        "morning_8am_12pm": 30.0,
+        "afternoon_12pm_5pm": 25.0,
+        "evening_5pm_10pm": 20.0
+      }
+    },
+    "specific_notes": "No specific sources found; local traffic is influenced by general city conditions."
+  },
+  {
+    "locality_name": "Nawabganj",
+    "location_profile": "Nawabganj is primarily a residential locality in Kanpur.",
+    "patterns": {
+      "weekday": {
+        "late_night_11pm_6am": 40.0,
+        "morning_rush_8am_11am": 15.0,
+        "mid_day_11am_4pm": 25.0,
+        "evening_rush_5pm_9pm": 15.0
+      },
+      "weekend": {
+        "morning_8am_12pm": 30.0,
+        "afternoon_12pm_5pm": 25.0,
+        "evening_5pm_10pm": 20.0
+      }
+    },
+    "specific_notes": "No specific sources found; local traffic is influenced by general city conditions."
+  },
+  {
+    "locality_name": "Naubasta",
+    "location_profile": "Naubasta is primarily a residential locality in Kanpur.",
+    "patterns": {
+      "weekday": {
+        "late_night_11pm_6am": 40.0,
+        "morning_rush_8am_11am": 15.0,
+        "mid_day_11am_4pm": 25.0,
+        "evening_rush_5pm_9pm": 15.0
+      },
+      "weekend": {
+        "morning_8am_12pm": 30.0,
+        "afternoon_12pm_5pm": 25.0,
+        "evening_5pm_10pm": 20.0
+      }
+    },
+    "specific_notes": "No specific sources found; local traffic is influenced by general city conditions."
+  },
+  {
+    "locality_name": "Panki",
+    "location_profile": "Panki is another large industrial area in west Kanpur, comprising multiple sites and factories (textiles, plastic, engineering):contentReference[oaicite:0]{index=0}. It acts as a key industrial hub connected to the rest of the city via major roads.",
+    "patterns": {
+      "weekday": {
+        "late_night_11pm_6am": 25.0,
+        "morning_rush_8am_11am": 12.0,
+        "mid_day_11am_4pm": 15.0,
+        "evening_rush_5pm_9pm": 10.0
+      },
+      "weekend": {
+        "morning_8am_12pm": 20.0,
+        "afternoon_12pm_5pm": 15.0,
+        "evening_5pm_10pm": 10.0
+      }
+    },
+    "specific_notes": "The route from Panki to Dada Nagar via Vijay Crossing sees frequent heavy truck congestion:contentReference[oaicite:1]{index=1}. The neighborhood often has slower speeds due to goods transport."
+  },
+  {
+    "locality_name": "Parade",
+    "location_profile": "Parade is primarily a residential locality in Kanpur.",
+    "patterns": {
+      "weekday": {
+        "late_night_11pm_6am": 40.0,
+        "morning_rush_8am_11am": 15.0,
+        "mid_day_11am_4pm": 25.0,
+        "evening_rush_5pm_9pm": 15.0
+      },
+      "weekend": {
+        "morning_8am_12pm": 30.0,
+        "afternoon_12pm_5pm": 25.0,
+        "evening_5pm_10pm": 20.0
+      }
+    },
+    "specific_notes": "No specific sources found; local traffic is influenced by general city conditions."
+  },
+  {
+    "locality_name": "Permat",
+    "location_profile": "Permat is primarily a residential locality in Kanpur.",
+    "patterns": {
+      "weekday": {
+        "late_night_11pm_6am": 40.0,
+        "morning_rush_8am_11am": 15.0,
+        "mid_day_11am_4pm": 25.0,
+        "evening_rush_5pm_9pm": 15.0
+      },
+      "weekend": {
+        "morning_8am_12pm": 30.0,
+        "afternoon_12pm_5pm": 25.0,
+        "evening_5pm_10pm": 20.0
+      }
+    },
+    "specific_notes": "No specific sources found; local traffic is influenced by general city conditions."
+  },
+  {
+    "locality_name": "Patrakarpuram",
+    "location_profile": "Patrakarpuram is primarily a residential locality in Kanpur.",
+    "patterns": {
+      "weekday": {
+        "late_night_11pm_6am": 40.0,
+        "morning_rush_8am_11am": 15.0,
+        "mid_day_11am_4pm": 25.0,
+        "evening_rush_5pm_9pm": 15.0
+      },
+      "weekend": {
+        "morning_8am_12pm": 30.0,
+        "afternoon_12pm_5pm": 25.0,
+        "evening_5pm_10pm": 20.0
+      }
+    },
+    "specific_notes": "No specific sources found; local traffic is influenced by general city conditions."
+  },
+  {
+    "locality_name": "Patkapur",
+    "location_profile": "Patkapur is primarily a residential locality in Kanpur.",
+    "patterns": {
+      "weekday": {
+        "late_night_11pm_6am": 40.0,
+        "morning_rush_8am_11am": 15.0,
+        "mid_day_11am_4pm": 25.0,
+        "evening_rush_5pm_9pm": 15.0
+      },
+      "weekend": {
+        "morning_8am_12pm": 30.0,
+        "afternoon_12pm_5pm": 25.0,
+        "evening_5pm_10pm": 20.0
+      }
+    },
+    "specific_notes": "No specific sources found; local traffic is influenced by general city conditions."
+  },
+  {
+    "locality_name": "Parwati Bagla Road",
+    "location_profile": "Parwati Bagla Road is primarily a residential locality in Kanpur.",
+    "patterns": {
+      "weekday": {
+        "late_night_11pm_6am": 40.0,
+        "morning_rush_8am_11am": 15.0,
+        "mid_day_11am_4pm": 25.0,
+        "evening_rush_5pm_9pm": 15.0
+      },
+      "weekend": {
+        "morning_8am_12pm": 30.0,
+        "afternoon_12pm_5pm": 25.0,
+        "evening_5pm_10pm": 20.0
+      }
+    },
+    "specific_notes": "No specific sources found; local traffic is influenced by general city conditions."
+  },
+  {
+    "locality_name": "Naramau",
+    "location_profile": "Naramau is primarily a residential locality in Kanpur.",
+    "patterns": {
+      "weekday": {
+        "late_night_11pm_6am": 40.0,
+        "morning_rush_8am_11am": 15.0,
+        "mid_day_11am_4pm": 25.0,
+        "evening_rush_5pm_9pm": 15.0
+      },
+      "weekend": {
+        "morning_8am_12pm": 30.0,
+        "afternoon_12pm_5pm": 25.0,
+        "evening_5pm_10pm": 20.0
+      }
+    },
+    "specific_notes": "No specific sources found; local traffic is influenced by general city conditions."
+  },
+  {
+    "locality_name": "Mirpur",
+    "location_profile": "Mirpur is primarily a residential locality in Kanpur.",
+    "patterns": {
+      "weekday": {
+        "late_night_11pm_6am": 40.0,
+        "morning_rush_8am_11am": 15.0,
+        "mid_day_11am_4pm": 25.0,
+        "evening_rush_5pm_9pm": 15.0
+      },
+      "weekend": {
+        "morning_8am_12pm": 30.0,
+        "afternoon_12pm_5pm": 25.0,
+        "evening_5pm_10pm": 20.0
+      }
+    },
+    "specific_notes": "No specific sources found; local traffic is influenced by general city conditions."
+  },
+  {
+    "locality_name": "Maitha",
+    "location_profile": "Maitha is primarily a residential locality in Kanpur.",
+    "patterns": {
+      "weekday": {
+        "late_night_11pm_6am": 40.0,
+        "morning_rush_8am_11am": 15.0,
+        "mid_day_11am_4pm": 25.0,
+        "evening_rush_5pm_9pm": 15.0
+      },
+      "weekend": {
+        "morning_8am_12pm": 30.0,
+        "afternoon_12pm_5pm": 25.0,
+        "evening_5pm_10pm": 20.0
+      }
+    },
+    "specific_notes": "No specific sources found; local traffic is influenced by general city conditions."
+  },
+  {
+    "locality_name": "Mainawati Marg",
+    "location_profile": "Mainawati Marg is primarily a residential locality in Kanpur.",
+    "patterns": {
+      "weekday": {
+        "late_night_11pm_6am": 40.0,
+        "morning_rush_8am_11am": 15.0,
+        "mid_day_11am_4pm": 25.0,
+        "evening_rush_5pm_9pm": 15.0
+      },
+      "weekend": {
+        "morning_8am_12pm": 30.0,
+        "afternoon_12pm_5pm": 25.0,
+        "evening_5pm_10pm": 20.0
+      }
+    },
+    "specific_notes": "No specific sources found; local traffic is influenced by general city conditions."
+  },
+  {
+    "locality_name": "Lal Bangla",
+    "location_profile": "Lal Bangla is primarily a residential locality in Kanpur.",
+    "patterns": {
+      "weekday": {
+        "late_night_11pm_6am": 40.0,
+        "morning_rush_8am_11am": 15.0,
+        "mid_day_11am_4pm": 25.0,
+        "evening_rush_5pm_9pm": 15.0
+      },
+      "weekend": {
+        "morning_8am_12pm": 30.0,
+        "afternoon_12pm_5pm": 25.0,
+        "evening_5pm_10pm": 20.0
+      }
+    },
+    "specific_notes": "No specific sources found; local traffic is influenced by general city conditions."
+  },
+  {
+    "locality_name": "Lakhanpur",
+    "location_profile": "Lakhanpur is primarily a residential locality in Kanpur.",
+    "patterns": {
+      "weekday": {
+        "late_night_11pm_6am": 40.0,
+        "morning_rush_8am_11am": 15.0,
+        "mid_day_11am_4pm": 25.0,
+        "evening_rush_5pm_9pm": 15.0
+      },
+      "weekend": {
+        "morning_8am_12pm": 30.0,
+        "afternoon_12pm_5pm": 25.0,
+        "evening_5pm_10pm": 20.0
+      }
+    },
+    "specific_notes": "No specific sources found; local traffic is influenced by general city conditions."
+  },
+  {
+    "locality_name": "Majhawan",
+    "location_profile": "Majhawan is primarily a residential locality in Kanpur.",
+    "patterns": {
+      "weekday": {
+        "late_night_11pm_6am": 40.0,
+        "morning_rush_8am_11am": 15.0,
+        "mid_day_11am_4pm": 25.0,
+        "evening_rush_5pm_9pm": 15.0
+      },
+      "weekend": {
+        "morning_8am_12pm": 30.0,
+        "afternoon_12pm_5pm": 25.0,
+        "evening_5pm_10pm": 20.0
+      }
+    },
+    "specific_notes": "No specific sources found; local traffic is influenced by general city conditions."
+  },
+  {
+    "locality_name": "Makri Kheora",
+    "location_profile": "Makri Kheora is primarily a residential locality in Kanpur.",
+    "patterns": {
+      "weekday": {
+        "late_night_11pm_6am": 40.0,
+        "morning_rush_8am_11am": 15.0,
+        "mid_day_11am_4pm": 25.0,
+        "evening_rush_5pm_9pm": 15.0
+      },
+      "weekend": {
+        "morning_8am_12pm": 30.0,
+        "afternoon_12pm_5pm": 25.0,
+        "evening_5pm_10pm": 20.0
+      }
+    },
+    "specific_notes": "No specific sources found; local traffic is influenced by general city conditions."
+  },
+  {
+    "locality_name": "Meharban Singh Ka Purva",
+    "location_profile": "Meharban Singh Ka Purva is primarily a residential locality in Kanpur.",
+    "patterns": {
+      "weekday": {
+        "late_night_11pm_6am": 40.0,
+        "morning_rush_8am_11am": 15.0,
+        "mid_day_11am_4pm": 25.0,
+        "evening_rush_5pm_9pm": 15.0
+      },
+      "weekend": {
+        "morning_8am_12pm": 30.0,
+        "afternoon_12pm_5pm": 25.0,
+        "evening_5pm_10pm": 20.0
+      }
+    },
+    "specific_notes": "No specific sources found; local traffic is influenced by general city conditions."
+  },
+  {
+    "locality_name": "Maswanpur",
+    "location_profile": "Maswanpur is primarily a residential locality in Kanpur.",
+    "patterns": {
+      "weekday": {
+        "late_night_11pm_6am": 40.0,
+        "morning_rush_8am_11am": 15.0,
+        "mid_day_11am_4pm": 25.0,
+        "evening_rush_5pm_9pm": 15.0
+      },
+      "weekend": {
+        "morning_8am_12pm": 30.0,
+        "afternoon_12pm_5pm": 25.0,
+        "evening_5pm_10pm": 20.0
+      }
+    },
+    "specific_notes": "No specific sources found; local traffic is influenced by general city conditions."
+  },
+  {
+    "locality_name": "Mandhana",
+    "location_profile": "Mandhana is an industrial suburb located on NH-2 (the southward highway). It hosts manufacturing units (e.g., fertilizer, chemicals) and is also a growing residential area.",
+    "patterns": {
+      "weekday": {
+        "late_night_11pm_6am": 25.0,
+        "morning_rush_8am_11am": 12.0,
+        "mid_day_11am_4pm": 15.0,
+        "evening_rush_5pm_9pm": 10.0
+      },
+      "weekend": {
+        "morning_8am_12pm": 20.0,
+        "afternoon_12pm_5pm": 15.0,
+        "evening_5pm_10pm": 10.0
+      }
+    },
+    "specific_notes": "As it lies on the highway, Mandhana sees heavy truck traffic at all times. Traffic can back up during shift-change hours at factories."
+  },
+  {
+    "locality_name": "Mall Road",
+    "location_profile": "Mall Road is a central commercial and residential district with upscale homes, offices, and a prominent market:contentReference[oaicite:2]{index=2}. The area is known for bustling shopping zones, restaurants, and entertainment venues, giving it a vibrant, urban character.",
+    "patterns": {
+      "weekday": {
+        "late_night_11pm_6am": 45.0,
+        "morning_rush_8am_11am": 25.0,
+        "mid_day_11am_4pm": 35.0,
+        "evening_rush_5pm_9pm": 20.0
+      },
+      "weekend": {
+        "morning_8am_12pm": 40.0,
+        "afternoon_12pm_5pm": 35.0,
+        "evening_5pm_10pm": 30.0
+      }
+    },
+    "specific_notes": "As a major downtown artery, Mall Road is very congested during rush hours and weekends, with heavy pedestrian and vehicle traffic."
+  },
+  {
+    "locality_name": "Pukhrayan",
+    "location_profile": "Pukhrayan is primarily a residential locality in Kanpur.",
+    "patterns": {
+      "weekday": {
+        "late_night_11pm_6am": 40.0,
+        "morning_rush_8am_11am": 15.0,
+        "mid_day_11am_4pm": 25.0,
+        "evening_rush_5pm_9pm": 15.0
+      },
+      "weekend": {
+        "morning_8am_12pm": 30.0,
+        "afternoon_12pm_5pm": 25.0,
+        "evening_5pm_10pm": 20.0
+      }
+    },
+    "specific_notes": "No specific sources found; local traffic is influenced by general city conditions."
+  },
+  {
+    "locality_name": "Purana Kanpur",
+    "location_profile": "Purana Kanpur is primarily a residential locality in Kanpur.",
+    "patterns": {
+      "weekday": {
+        "late_night_11pm_6am": 40.0,
+        "morning_rush_8am_11am": 15.0,
+        "mid_day_11am_4pm": 25.0,
+        "evening_rush_5pm_9pm": 15.0
+      },
+      "weekend": {
+        "morning_8am_12pm": 30.0,
+        "afternoon_12pm_5pm": 25.0,
+        "evening_5pm_10pm": 20.0
+      }
+    },
+    "specific_notes": "No specific sources found; local traffic is influenced by general city conditions."
+  },
+  {
+    "locality_name": "Singhpur",
+    "location_profile": "Singhpur is primarily a residential locality in Kanpur.",
+    "patterns": {
+      "weekday": {
+        "late_night_11pm_6am": 40.0,
+        "morning_rush_8am_11am": 15.0,
+        "mid_day_11am_4pm": 25.0,
+        "evening_rush_5pm_9pm": 15.0
+      },
+      "weekend": {
+        "morning_8am_12pm": 30.0,
+        "afternoon_12pm_5pm": 25.0,
+        "evening_5pm_10pm": 20.0
+      }
+    },
+    "specific_notes": "No specific sources found; local traffic is influenced by general city conditions."
+  },
+  {
+    "locality_name": "Shyam Nagar",
+    "location_profile": "Shyam Nagar is a fast-developing affluent neighborhood with high-rise apartments and independent houses:contentReference[oaicite:3]{index=3}. The area has modern infrastructure, parks, and malls, and is sought after by both residents and businesses.",
+    "patterns": {
+      "weekday": {
+        "late_night_11pm_6am": 40.0,
+        "morning_rush_8am_11am": 15.0,
+        "mid_day_11am_4pm": 25.0,
+        "evening_rush_5pm_9pm": 15.0
+      },
+      "weekend": {
+        "morning_8am_12pm": 30.0,
+        "afternoon_12pm_5pm": 25.0,
+        "evening_5pm_10pm": 20.0
+      }
+    },
+    "specific_notes": "Being a newer area, road widths are adequate, but construction can cause periodic disruptions. Evening rush can be significant due to returning workforce."
+  },
+  {
+    "locality_name": "Shuklaganj",
+    "location_profile": "Shuklaganj is primarily a residential locality in Kanpur.",
+    "patterns": {
+      "weekday": {
+        "late_night_11pm_6am": 40.0,
+        "morning_rush_8am_11am": 15.0,
+        "mid_day_11am_4pm": 25.0,
+        "evening_rush_5pm_9pm": 15.0
+      },
+      "weekend": {
+        "morning_8am_12pm": 30.0,
+        "afternoon_12pm_5pm": 25.0,
+        "evening_5pm_10pm": 20.0
+      }
+    },
+    "specific_notes": "No specific sources found; local traffic is influenced by general city conditions."
+  },
+  {
+    "locality_name": "Shivarajpur",
+    "location_profile": "Shivarajpur is primarily a residential locality in Kanpur.",
+    "patterns": {
+      "weekday": {
+        "late_night_11pm_6am": 40.0,
+        "morning_rush_8am_11am": 15.0,
+        "mid_day_11am_4pm": 25.0,
+        "evening_rush_5pm_9pm": 15.0
+      },
+      "weekend": {
+        "morning_8am_12pm": 30.0,
+        "afternoon_12pm_5pm": 25.0,
+        "evening_5pm_10pm": 20.0
+      }
+    },
+    "specific_notes": "No specific sources found; local traffic is influenced by general city conditions."
+  },
+  {
+    "locality_name": "Swaroop Nagar",
+    "location_profile": "Swaroop Nagar is an affluent neighborhood known for its upscale residences and high living standards:contentReference[oaicite:4]{index=4}. It has a range of independent homes, villas, and apartments, along with parks, cafes, and malls, making it a very posh residential area.",
+    "patterns": {
+      "weekday": {
+        "late_night_11pm_6am": 40.0,
+        "morning_rush_8am_11am": 15.0,
+        "mid_day_11am_4pm": 25.0,
+        "evening_rush_5pm_9pm": 15.0
+      },
+      "weekend": {
+        "morning_8am_12pm": 30.0,
+        "afternoon_12pm_5pm": 25.0,
+        "evening_5pm_10pm": 20.0
+      }
+    },
+    "specific_notes": "Generally well-planned, so traffic is moderate, but local market roads can cause slowdowns."
+  },
+  {
+    "locality_name": "Tilak Nagar",
+    "location_profile": "Tilak Nagar is a planned upscale locality blending residential and commercial facilities:contentReference[oaicite:5]{index=5}. It is characterized by spacious homes, retail centers, and ample community amenities (schools, hospitals), making it popular for families.",
+    "patterns": {
+      "weekday": {
+        "late_night_11pm_6am": 40.0,
+        "morning_rush_8am_11am": 15.0,
+        "mid_day_11am_4pm": 25.0,
+        "evening_rush_5pm_9pm": 15.0
+      },
+      "weekend": {
+        "morning_8am_12pm": 30.0,
+        "afternoon_12pm_5pm": 25.0,
+        "evening_5pm_10pm": 20.0
+      }
+    },
+    "specific_notes": "Traffic is busy during peak school and office commute times, but roads are relatively wide. It has relatively high speed during non-peak hours."
+  },
+  {
+    "locality_name": "Yashoda Nagar",
+    "location_profile": "Yashoda Nagar is primarily a residential locality in Kanpur.",
+    "patterns": {
+      "weekday": {
+        "late_night_11pm_6am": 40.0,
+        "morning_rush_8am_11am": 15.0,
+        "mid_day_11am_4pm": 25.0,
+        "evening_rush_5pm_9pm": 15.0
+      },
+      "weekend": {
+        "morning_8am_12pm": 30.0,
+        "afternoon_12pm_5pm": 25.0,
+        "evening_5pm_10pm": 20.0
+      }
+    },
+    "specific_notes": "No specific sources found; local traffic is influenced by general city conditions."
+  },
+  {
+    "locality_name": "Vishnu Puri",
+    "location_profile": "Vishnu Puri is primarily a residential locality in Kanpur.",
+    "patterns": {
+      "weekday": {
+        "late_night_11pm_6am": 40.0,
+        "morning_rush_8am_11am": 15.0,
+        "mid_day_11am_4pm": 25.0,
+        "evening_rush_5pm_9pm": 15.0
+      },
+      "weekend": {
+        "morning_8am_12pm": 30.0,
+        "afternoon_12pm_5pm": 25.0,
+        "evening_5pm_10pm": 20.0
+      }
+    },
+    "specific_notes": "No specific sources found; local traffic is influenced by general city conditions."
+  },
+  {
+    "locality_name": "VIP Road",
+    "location_profile": "VIP Road is a major arterial road lined with commercial establishments and residences. It connects to the central city and is well-developed.",
+    "patterns": {
+      "weekday": {
+        "late_night_11pm_6am": 45.0,
+        "morning_rush_8am_11am": 25.0,
+        "mid_day_11am_4pm": 35.0,
+        "evening_rush_5pm_9pm": 20.0
+      },
+      "weekend": {
+        "morning_8am_12pm": 40.0,
+        "afternoon_12pm_5pm": 35.0,
+        "evening_5pm_10pm": 30.0
+      }
+    },
+    "specific_notes": "No specific sources found; local traffic is influenced by general city conditions."
+  },
+  {
+    "locality_name": "Vikas Nagar",
+    "location_profile": "Vikas Nagar is primarily a residential locality in Kanpur.",
+    "patterns": {
+      "weekday": {
+        "late_night_11pm_6am": 40.0,
+        "morning_rush_8am_11am": 15.0,
+        "mid_day_11am_4pm": 25.0,
+        "evening_rush_5pm_9pm": 15.0
+      },
+      "weekend": {
+        "morning_8am_12pm": 30.0,
+        "afternoon_12pm_5pm": 25.0,
+        "evening_5pm_10pm": 20.0
+      }
+    },
+    "specific_notes": "No specific sources found; local traffic is influenced by general city conditions."
+  },
+  {
+    "locality_name": "Shashtri Nagar",
+    "location_profile": "Shashtri Nagar is primarily a residential locality in Kanpur.",
+    "patterns": {
+      "weekday": {
+        "late_night_11pm_6am": 40.0,
+        "morning_rush_8am_11am": 15.0,
+        "mid_day_11am_4pm": 25.0,
+        "evening_rush_5pm_9pm": 15.0
+      },
+      "weekend": {
+        "morning_8am_12pm": 30.0,
+        "afternoon_12pm_5pm": 25.0,
+        "evening_5pm_10pm": 20.0
+      }
+    },
+    "specific_notes": "No specific sources found; local traffic is influenced by general city conditions."
+  },
+  {
+    "locality_name": "Sharda Nagar",
+    "location_profile": "Sharda Nagar is primarily a residential locality in Kanpur.",
+    "patterns": {
+      "weekday": {
+        "late_night_11pm_6am": 40.0,
+        "morning_rush_8am_11am": 15.0,
+        "mid_day_11am_4pm": 25.0,
+        "evening_rush_5pm_9pm": 15.0
+      },
+      "weekend": {
+        "morning_8am_12pm": 30.0,
+        "afternoon_12pm_5pm": 25.0,
+        "evening_5pm_10pm": 20.0
+      }
+    },
+    "specific_notes": "No specific sources found; local traffic is influenced by general city conditions."
+  },
+  {
+    "locality_name": "Ratan Lal Nagar",
+    "location_profile": "Ratan Lal Nagar is a mixed-use area noted for textile mills and light industry. It has a sizable cluster of industrial units alongside residential pockets.",
+    "patterns": {
+      "weekday": {
+        "late_night_11pm_6am": 25.0,
+        "morning_rush_8am_11am": 12.0,
+        "mid_day_11am_4pm": 15.0,
+        "evening_rush_5pm_9pm": 10.0
+      },
+      "weekend": {
+        "morning_8am_12pm": 20.0,
+        "afternoon_12pm_5pm": 15.0,
+        "evening_5pm_10pm": 10.0
+      }
+    },
+    "specific_notes": "The presence of industrial workshops means there are many medium trucks and delivery vehicles, causing moderate traffic delays, especially on the main road corridor."
+  },
+  {
+    "locality_name": "Ramaipur",
+    "location_profile": "Ramaipur is primarily a residential locality in Kanpur.",
+    "patterns": {
+      "weekday": {
+        "late_night_11pm_6am": 40.0,
+        "morning_rush_8am_11am": 15.0,
+        "mid_day_11am_4pm": 25.0,
+        "evening_rush_5pm_9pm": 15.0
+      },
+      "weekend": {
+        "morning_8am_12pm": 30.0,
+        "afternoon_12pm_5pm": 25.0,
+        "evening_5pm_10pm": 20.0
+      }
+    },
+    "specific_notes": "No specific sources found; local traffic is influenced by general city conditions."
+  },
+  {
+    "locality_name": "Ram Bagh",
+    "location_profile": "Ram Bagh is primarily a residential locality in Kanpur.",
+    "patterns": {
+      "weekday": {
+        "late_night_11pm_6am": 40.0,
+        "morning_rush_8am_11am": 15.0,
+        "mid_day_11am_4pm": 25.0,
+        "evening_rush_5pm_9pm": 15.0
+      },
+      "weekend": {
+        "morning_8am_12pm": 30.0,
+        "afternoon_12pm_5pm": 25.0,
+        "evening_5pm_10pm": 20.0
+      }
+    },
+    "specific_notes": "No specific sources found; local traffic is influenced by general city conditions."
+  },
+  {
+    "locality_name": "Rai Purwa",
+    "location_profile": "Rai Purwa is primarily a residential locality in Kanpur.",
+    "patterns": {
+      "weekday": {
+        "late_night_11pm_6am": 40.0,
+        "morning_rush_8am_11am": 15.0,
+        "mid_day_11am_4pm": 25.0,
+        "evening_rush_5pm_9pm": 15.0
+      },
+      "weekend": {
+        "morning_8am_12pm": 30.0,
+        "afternoon_12pm_5pm": 25.0,
+        "evening_5pm_10pm": 20.0
+      }
+    },
+    "specific_notes": "No specific sources found; local traffic is influenced by general city conditions."
+  },
+  {
+    "locality_name": "Ravidas Puram",
+    "location_profile": "Ravidas Puram is primarily a residential locality in Kanpur.",
+    "patterns": {
+      "weekday": {
+        "late_night_11pm_6am": 40.0,
+        "morning_rush_8am_11am": 15.0,
+        "mid_day_11am_4pm": 25.0,
+        "evening_rush_5pm_9pm": 15.0
+      },
+      "weekend": {
+        "morning_8am_12pm": 30.0,
+        "afternoon_12pm_5pm": 25.0,
+        "evening_5pm_10pm": 20.0
+      }
+    },
+    "specific_notes": "No specific sources found; local traffic is influenced by general city conditions."
+  },
+  {
+    "locality_name": "Rawatpur",
+    "location_profile": "Rawatpur is a busy area in north Kanpur along the main highway. It includes residential and commercial zones and is known for its major crossing (Rawatpur Crossing).",
+    "patterns": {
+      "weekday": {
+        "late_night_11pm_6am": 25.0,
+        "morning_rush_8am_11am": 10.0,
+        "mid_day_11am_4pm": 15.0,
+        "evening_rush_5pm_9pm": 10.0
+      },
+      "weekend": {
+        "morning_8am_12pm": 20.0,
+        "afternoon_12pm_5pm": 15.0,
+        "evening_5pm_10pm": 10.0
+      }
+    },
+    "specific_notes": "Rawatpur Crossing is frequently jammed during rush hours:contentReference[oaicite:6]{index=6}. Its location on NH-2 means intercity trucks add to local traffic, and school commuting also causes congestion."
+  },
+  {
+    "locality_name": "Sarvodaya Nagar",
+    "location_profile": "Sarvodaya Nagar is primarily a residential locality in Kanpur.",
+    "patterns": {
+      "weekday": {
+        "late_night_11pm_6am": 40.0,
+        "morning_rush_8am_11am": 15.0,
+        "mid_day_11am_4pm": 25.0,
+        "evening_rush_5pm_9pm": 15.0
+      },
+      "weekend": {
+        "morning_8am_12pm": 30.0,
+        "afternoon_12pm_5pm": 25.0,
+        "evening_5pm_10pm": 20.0
+      }
+    },
+    "specific_notes": "No specific sources found; local traffic is influenced by general city conditions."
+  },
+  {
+    "locality_name": "Saket Nagar",
+    "location_profile": "Saket Nagar is primarily a residential locality in Kanpur.",
+    "patterns": {
+      "weekday": {
+        "late_night_11pm_6am": 40.0,
+        "morning_rush_8am_11am": 15.0,
+        "mid_day_11am_4pm": 25.0,
+        "evening_rush_5pm_9pm": 15.0
+      },
+      "weekend": {
+        "morning_8am_12pm": 30.0,
+        "afternoon_12pm_5pm": 25.0,
+        "evening_5pm_10pm": 20.0
+      }
+    },
+    "specific_notes": "No specific sources found; local traffic is influenced by general city conditions."
+  },
+  {
+    "locality_name": "Rura",
+    "location_profile": "Rura is primarily a residential locality in Kanpur.",
+    "patterns": {
+      "weekday": {
+        "late_night_11pm_6am": 40.0,
+        "morning_rush_8am_11am": 15.0,
+        "mid_day_11am_4pm": 25.0,
+        "evening_rush_5pm_9pm": 15.0
+      },
+      "weekend": {
+        "morning_8am_12pm": 30.0,
+        "afternoon_12pm_5pm": 25.0,
+        "evening_5pm_10pm": 20.0
+      }
+    },
+    "specific_notes": "No specific sources found; local traffic is influenced by general city conditions."
+  },
+  {
+    "locality_name": "Rooma",
+    "location_profile": "Rooma is primarily a residential locality in Kanpur.",
+    "patterns": {
+      "weekday": {
+        "late_night_11pm_6am": 40.0,
+        "morning_rush_8am_11am": 15.0,
+        "mid_day_11am_4pm": 25.0,
+        "evening_rush_5pm_9pm": 15.0
+      },
+      "weekend": {
+        "morning_8am_12pm": 30.0,
+        "afternoon_12pm_5pm": 25.0,
+        "evening_5pm_10pm": 20.0
+      }
+    },
+    "specific_notes": "No specific sources found; local traffic is influenced by general city conditions."
+  },
+  {
+    "locality_name": "Lajpat Nagar",
+    "location_profile": "Lajpat Nagar is primarily a residential locality in Kanpur.",
+    "patterns": {
+      "weekday": {
+        "late_night_11pm_6am": 40.0,
+        "morning_rush_8am_11am": 15.0,
+        "mid_day_11am_4pm": 25.0,
+        "evening_rush_5pm_9pm": 15.0
+      },
+      "weekend": {
+        "morning_8am_12pm": 30.0,
+        "afternoon_12pm_5pm": 25.0,
+        "evening_5pm_10pm": 20.0
+      }
+    },
+    "specific_notes": "No specific sources found; local traffic is influenced by general city conditions."
+  },
+  {
+    "locality_name": "Krishnapuram",
+    "location_profile": "Krishnapuram is primarily a residential locality in Kanpur.",
+    "patterns": {
+      "weekday": {
+        "late_night_11pm_6am": 40.0,
+        "morning_rush_8am_11am": 15.0,
+        "mid_day_11am_4pm": 25.0,
+        "evening_rush_5pm_9pm": 15.0
+      },
+      "weekend": {
+        "morning_8am_12pm": 30.0,
+        "afternoon_12pm_5pm": 25.0,
+        "evening_5pm_10pm": 20.0
+      }
+    },
+    "specific_notes": "No specific sources found; local traffic is influenced by general city conditions."
+  },
+  {
+    "locality_name": "Damodar Nagar",
+    "location_profile": "Damodar Nagar is primarily a residential locality in Kanpur.",
+    "patterns": {
+      "weekday": {
+        "late_night_11pm_6am": 40.0,
+        "morning_rush_8am_11am": 15.0,
+        "mid_day_11am_4pm": 25.0,
+        "evening_rush_5pm_9pm": 15.0
+      },
+      "weekend": {
+        "morning_8am_12pm": 30.0,
+        "afternoon_12pm_5pm": 25.0,
+        "evening_5pm_10pm": 20.0
+      }
+    },
+    "specific_notes": "No specific sources found; local traffic is influenced by general city conditions."
+  },
+  {
+    "locality_name": "Daheli Sujanpur",
+    "location_profile": "Daheli Sujanpur is primarily a residential locality in Kanpur.",
+    "patterns": {
+      "weekday": {
+        "late_night_11pm_6am": 40.0,
+        "morning_rush_8am_11am": 15.0,
+        "mid_day_11am_4pm": 25.0,
+        "evening_rush_5pm_9pm": 15.0
+      },
+      "weekend": {
+        "morning_8am_12pm": 30.0,
+        "afternoon_12pm_5pm": 25.0,
+        "evening_5pm_10pm": 20.0
+      }
+    },
+    "specific_notes": "No specific sources found; local traffic is influenced by general city conditions."
+  },
+  {
+    "locality_name": "Dabauli",
+    "location_profile": "Dabauli is primarily a residential locality in Kanpur.",
+    "patterns": {
+      "weekday": {
+        "late_night_11pm_6am": 40.0,
+        "morning_rush_8am_11am": 15.0,
+        "mid_day_11am_4pm": 25.0,
+        "evening_rush_5pm_9pm": 15.0
+      },
+      "weekend": {
+        "morning_8am_12pm": 30.0,
+        "afternoon_12pm_5pm": 25.0,
+        "evening_5pm_10pm": 20.0
+      }
+    },
+    "specific_notes": "No specific sources found; local traffic is influenced by general city conditions."
+  },
+  {
+    "locality_name": "Colonelganj",
+    "location_profile": "Colonelganj lies along the main southern highway (NH-2) out of Kanpur. It has a mix of residential and marketplaces, and is located near the cantonment area.",
+    "patterns": {
+      "weekday": {
+        "late_night_11pm_6am": 45.0,
+        "morning_rush_8am_11am": 25.0,
+        "mid_day_11am_4pm": 35.0,
+        "evening_rush_5pm_9pm": 20.0
+      },
+      "weekend": {
+        "morning_8am_12pm": 40.0,
+        "afternoon_12pm_5pm": 35.0,
+        "evening_5pm_10pm": 30.0
+      }
+    },
+    "specific_notes": "As a highway town, Colonelganj sees continuous through traffic of trucks and buses, especially during the day."
+  },
+  {
+    "locality_name": "Darshan Purwa",
+    "location_profile": "Darshan Purwa is primarily a residential locality in Kanpur.",
+    "patterns": {
+      "weekday": {
+        "late_night_11pm_6am": 40.0,
+        "morning_rush_8am_11am": 15.0,
+        "mid_day_11am_4pm": 25.0,
+        "evening_rush_5pm_9pm": 15.0
+      },
+      "weekend": {
+        "morning_8am_12pm": 30.0,
+        "afternoon_12pm_5pm": 25.0,
+        "evening_5pm_10pm": 20.0
+      }
+    },
+    "specific_notes": "No specific sources found; local traffic is influenced by general city conditions."
+  },
+  {
+    "locality_name": "Dayanand Vihar",
+    "location_profile": "Dayanand Vihar is primarily a residential locality in Kanpur.",
+    "patterns": {
+      "weekday": {
+        "late_night_11pm_6am": 40.0,
+        "morning_rush_8am_11am": 15.0,
+        "mid_day_11am_4pm": 25.0,
+        "evening_rush_5pm_9pm": 15.0
+      },
+      "weekend": {
+        "morning_8am_12pm": 30.0,
+        "afternoon_12pm_5pm": 25.0,
+        "evening_5pm_10pm": 20.0
+      }
+    },
+    "specific_notes": "No specific sources found; local traffic is influenced by general city conditions."
+  },
+  {
+    "locality_name": "General Ganj",
+    "location_profile": "General Ganj is a marketplace area near the railway station, with shops and small businesses. It is close to Kanpur Central station and Kanpur Metro station.",
+    "patterns": {
+      "weekday": {
+        "late_night_11pm_6am": 40.0,
+        "morning_rush_8am_11am": 10.0,
+        "mid_day_11am_4pm": 15.0,
+        "evening_rush_5pm_9pm": 10.0
+      },
+      "weekend": {
+        "morning_8am_12pm": 20.0,
+        "afternoon_12pm_5pm": 15.0,
+        "evening_5pm_10pm": 10.0
+      }
+    },
+    "specific_notes": "Being adjacent to the railway station, General Ganj has frequent passenger and delivery traffic. Trains cause periodic waits at nearby crossings."
+  },
+  {
+    "locality_name": "Gandhigram",
+    "location_profile": "Gandhigram is primarily a residential locality in Kanpur.",
+    "patterns": {
+      "weekday": {
+        "late_night_11pm_6am": 40.0,
+        "morning_rush_8am_11am": 15.0,
+        "mid_day_11am_4pm": 25.0,
+        "evening_rush_5pm_9pm": 15.0
+      },
+      "weekend": {
+        "morning_8am_12pm": 30.0,
+        "afternoon_12pm_5pm": 25.0,
+        "evening_5pm_10pm": 20.0
+      }
+    },
+    "specific_notes": "No specific sources found; local traffic is influenced by general city conditions."
+  },
+  {
+    "locality_name": "Gandhi Nagar",
+    "location_profile": "Gandhi Nagar is primarily a residential locality in Kanpur.",
+    "patterns": {
+      "weekday": {
+        "late_night_11pm_6am": 40.0,
+        "morning_rush_8am_11am": 15.0,
+        "mid_day_11am_4pm": 25.0,
+        "evening_rush_5pm_9pm": 15.0
+      },
+      "weekend": {
+        "morning_8am_12pm": 30.0,
+        "afternoon_12pm_5pm": 25.0,
+        "evening_5pm_10pm": 20.0
+      }
+    },
+    "specific_notes": "No specific sources found; local traffic is influenced by general city conditions."
+  },
+  {
+    "locality_name": "Fazal Ganj",
+    "location_profile": "Fazal Ganj (Fazalganj) is a mixed commercial/residential area near Kanpur Central railway station. It serves as a key transit point for goods and buses.",
+    "patterns": {
+      "weekday": {
+        "late_night_11pm_6am": 45.0,
+        "morning_rush_8am_11am": 25.0,
+        "mid_day_11am_4pm": 35.0,
+        "evening_rush_5pm_9pm": 20.0
+      },
+      "weekend": {
+        "morning_8am_12pm": 40.0,
+        "afternoon_12pm_5pm": 35.0,
+        "evening_5pm_10pm": 30.0
+      }
+    },
+    "specific_notes": "Goods from the nearby railway goods yard are often routed through Fazalganj on the way to industrial estates:contentReference[oaicite:7]{index=7}. This, along with local market traffic, leads to notable congestion."
+  },
+  {
+    "locality_name": "Civil Lines",
+    "location_profile": "Civil Lines is a prestigious historical residential area with broad tree-lined avenues and colonial-era buildings:contentReference[oaicite:8]{index=8}. It features large bungalows, independent houses, and green parks, offering a luxurious ambiance.",
+    "patterns": {
+      "weekday": {
+        "late_night_11pm_6am": 35.0,
+        "morning_rush_8am_11am": 15.0,
+        "mid_day_11am_4pm": 25.0,
+        "evening_rush_5pm_9pm": 15.0
+      },
+      "weekend": {
+        "morning_8am_12pm": 30.0,
+        "afternoon_12pm_5pm": 25.0,
+        "evening_5pm_10pm": 20.0
+      }
+    },
+    "specific_notes": "Major traffic influences include school zones and government offices. The city's large vehicle population (1.6 million vehicles) means even night speeds are slow:contentReference[oaicite:9]{index=9}. Peak hours see very slow traffic (Kanpur’s average peak speed is ~17–20 km/h:contentReference[oaicite:10]{index=10})."
+  },
+  {
+    "locality_name": "Chaubepur",
+    "location_profile": "Chaubepur is primarily a residential locality in Kanpur.",
+    "patterns": {
+      "weekday": {
+        "late_night_11pm_6am": 40.0,
+        "morning_rush_8am_11am": 15.0,
+        "mid_day_11am_4pm": 25.0,
+        "evening_rush_5pm_9pm": 15.0
+      },
+      "weekend": {
+        "morning_8am_12pm": 30.0,
+        "afternoon_12pm_5pm": 25.0,
+        "evening_5pm_10pm": 20.0
+      }
+    },
+    "specific_notes": "No specific sources found; local traffic is influenced by general city conditions."
+  },
+  {
+    "locality_name": "Barra",
+    "location_profile": "Barra is primarily a residential locality in Kanpur.",
+    "patterns": {
+      "weekday": {
+        "late_night_11pm_6am": 40.0,
+        "morning_rush_8am_11am": 15.0,
+        "mid_day_11am_4pm": 25.0,
+        "evening_rush_5pm_9pm": 15.0
+      },
+      "weekend": {
+        "morning_8am_12pm": 30.0,
+        "afternoon_12pm_5pm": 25.0,
+        "evening_5pm_10pm": 20.0
+      }
+    },
+    "specific_notes": "No specific sources found; local traffic is influenced by general city conditions."
+  },
+  {
+    "locality_name": "Azad Nagar",
+    "location_profile": "Azad Nagar is primarily a residential locality in Kanpur.",
+    "patterns": {
+      "weekday": {
+        "late_night_11pm_6am": 40.0,
+        "morning_rush_8am_11am": 15.0,
+        "mid_day_11am_4pm": 25.0,
+        "evening_rush_5pm_9pm": 15.0
+      },
+      "weekend": {
+        "morning_8am_12pm": 30.0,
+        "afternoon_12pm_5pm": 25.0,
+        "evening_5pm_10pm": 20.0
+      }
+    },
+    "specific_notes": "No specific sources found; local traffic is influenced by general city conditions."
+  },
+  {
+    "locality_name": "Amiliha",
+    "location_profile": "Amiliha is primarily a residential locality in Kanpur.",
+    "patterns": {
+      "weekday": {
+        "late_night_11pm_6am": 40.0,
+        "morning_rush_8am_11am": 15.0,
+        "mid_day_11am_4pm": 25.0,
+        "evening_rush_5pm_9pm": 15.0
+      },
+      "weekend": {
+        "morning_8am_12pm": 30.0,
+        "afternoon_12pm_5pm": 25.0,
+        "evening_5pm_10pm": 20.0
+      }
+    },
+    "specific_notes": "No specific sources found; local traffic is influenced by general city conditions."
+  },
+  {
+    "locality_name": "Allahabad Road",
+    "location_profile": "Allahabad Road is a major highway (NH-2) running south from Kanpur towards Prayagraj. It is lined with commercial establishments and transit points.",
+    "patterns": {
+      "weekday": {
+        "late_night_11pm_6am": 50.0,
+        "morning_rush_8am_11am": 30.0,
+        "mid_day_11am_4pm": 40.0,
+        "evening_rush_5pm_9pm": 25.0
+      },
+      "weekend": {
+        "morning_8am_12pm": 45.0,
+        "afternoon_12pm_5pm": 35.0,
+        "evening_5pm_10pm": 30.0
+      }
+    },
+    "specific_notes": "As a national highway, traffic remains steady throughout the day. Peak travel times see slower movement at urban intersections."
+  },
+  {
+    "locality_name": "Behata",
+    "location_profile": "Behata is primarily a residential locality in Kanpur.",
+    "patterns": {
+      "weekday": {
+        "late_night_11pm_6am": 40.0,
+        "morning_rush_8am_11am": 15.0,
+        "mid_day_11am_4pm": 25.0,
+        "evening_rush_5pm_9pm": 15.0
+      },
+      "weekend": {
+        "morning_8am_12pm": 30.0,
+        "afternoon_12pm_5pm": 25.0,
+        "evening_5pm_10pm": 20.0
+      }
+    },
+    "specific_notes": "No specific sources found; local traffic is influenced by general city conditions."
+  },
+  {
+    "locality_name": "Bhauti Pratappur",
+    "location_profile": "Bhauti Pratappur is primarily a residential locality in Kanpur.",
+    "patterns": {
+      "weekday": {
+        "late_night_11pm_6am": 40.0,
+        "morning_rush_8am_11am": 15.0,
+        "mid_day_11am_4pm": 25.0,
+        "evening_rush_5pm_9pm": 15.0
+      },
+      "weekend": {
+        "morning_8am_12pm": 30.0,
+        "afternoon_12pm_5pm": 25.0,
+        "evening_5pm_10pm": 20.0
+      }
+    },
+    "specific_notes": "No specific sources found; local traffic is influenced by general city conditions."
+  },
+  {
+    "locality_name": "Chakeri",
+    "location_profile": "Chakeri is the eastern suburb of Kanpur, hosting the Kanpur Airport and several tech and industrial areas. It also includes some modern residential enclaves.",
+    "patterns": {
+      "weekday": {
+        "late_night_11pm_6am": 45.0,
+        "morning_rush_8am_11am": 25.0,
+        "mid_day_11am_4pm": 35.0,
+        "evening_rush_5pm_9pm": 20.0
+      },
+      "weekend": {
+        "morning_8am_12pm": 40.0,
+        "afternoon_12pm_5pm": 35.0,
+        "evening_5pm_10pm": 30.0
+      }
+    },
+    "specific_notes": "Primarily served by national highway traffic to the airport; can see periodic slowdowns near the airport entry."
+  },
+  {
+    "locality_name": "Bithoor Road",
+    "location_profile": "Bithoor Road is a major route that connects Kanpur city to the town of Bithoor. It passes through many suburbs on the northern side of the city.",
+    "patterns": {
+      "weekday": {
+        "late_night_11pm_6am": 45.0,
+        "morning_rush_8am_11am": 25.0,
+        "mid_day_11am_4pm": 35.0,
+        "evening_rush_5pm_9pm": 20.0
+      },
+      "weekend": {
+        "morning_8am_12pm": 40.0,
+        "afternoon_12pm_5pm": 35.0,
+        "evening_5pm_10pm": 30.0
+      }
+    },
+    "specific_notes": "This busy road sees heavy traffic especially on weekends and holidays as people travel to Bithoor. Heavy vehicles to industrial sites along the route contribute to congestion."
+  },
+  {
+    "locality_name": "Bithoor",
+    "location_profile": "Bithoor is a historic town and suburb to the north of Kanpur. It is a cultural and religious destination with temples and ghats.",
+    "patterns": {
+      "weekday": {
+        "late_night_11pm_6am": 40.0,
+        "morning_rush_8am_11am": 15.0,
+        "mid_day_11am_4pm": 25.0,
+        "evening_rush_5pm_9pm": 15.0
+      },
+      "weekend": {
+        "morning_8am_12pm": 30.0,
+        "afternoon_12pm_5pm": 25.0,
+        "evening_5pm_10pm": 20.0
+      }
+    },
+    "specific_notes": "Traffic flows are modest, with occasional surges when religious festivals or tourist seasons draw visitors from Kanpur on the Bithoor Road."
+  },
+  {
+    "locality_name": "Bilhaur",
+    "location_profile": "Bilhaur is primarily a residential locality in Kanpur.",
+    "patterns": {
+      "weekday": {
+        "late_night_11pm_6am": 40.0,
+        "morning_rush_8am_11am": 15.0,
+        "mid_day_11am_4pm": 25.0,
+        "evening_rush_5pm_9pm": 15.0
+      },
+      "weekend": {
+        "morning_8am_12pm": 30.0,
+        "afternoon_12pm_5pm": 25.0,
+        "evening_5pm_10pm": 20.0
+      }
+    },
+    "specific_notes": "No specific sources found; local traffic is influenced by general city conditions."
+  },
+  {
+    "locality_name": "Ghatampur",
+    "location_profile": "Ghatampur is primarily a residential locality in Kanpur.",
+    "patterns": {
+      "weekday": {
+        "late_night_11pm_6am": 40.0,
+        "morning_rush_8am_11am": 15.0,
+        "mid_day_11am_4pm": 25.0,
+        "evening_rush_5pm_9pm": 15.0
+      },
+      "weekend": {
+        "morning_8am_12pm": 30.0,
+        "afternoon_12pm_5pm": 25.0,
+        "evening_5pm_10pm": 20.0
+      }
+    },
+    "specific_notes": "No specific sources found; local traffic is influenced by general city conditions."
+  },
+  {
+    "locality_name": "Govind Nagar",
+    "location_profile": "Govind Nagar is primarily a residential locality in Kanpur.",
+    "patterns": {
+      "weekday": {
+        "late_night_11pm_6am": 40.0,
+        "morning_rush_8am_11am": 15.0,
+        "mid_day_11am_4pm": 25.0,
+        "evening_rush_5pm_9pm": 15.0
+      },
+      "weekend": {
+        "morning_8am_12pm": 30.0,
+        "afternoon_12pm_5pm": 25.0,
+        "evening_5pm_10pm": 20.0
+      }
+    },
+    "specific_notes": "No specific sources found; local traffic is influenced by general city conditions."
+  },
+  {
+    "locality_name": "Kaushalpuri",
+    "location_profile": "Kaushalpuri is primarily a residential locality in Kanpur.",
+    "patterns": {
+      "weekday": {
+        "late_night_11pm_6am": 40.0,
+        "morning_rush_8am_11am": 15.0,
+        "mid_day_11am_4pm": 25.0,
+        "evening_rush_5pm_9pm": 15.0
+      },
+      "weekend": {
+        "morning_8am_12pm": 30.0,
+        "afternoon_12pm_5pm": 25.0,
+        "evening_5pm_10pm": 20.0
+      }
+    },
+    "specific_notes": "No specific sources found; local traffic is influenced by general city conditions."
+  },
+  {
+    "locality_name": "Katarijiyora Nawab Ganj",
+    "location_profile": "Katarijiyora Nawab Ganj is primarily a residential locality in Kanpur.",
+    "patterns": {
+      "weekday": {
+        "late_night_11pm_6am": 40.0,
+        "morning_rush_8am_11am": 15.0,
+        "mid_day_11am_4pm": 25.0,
+        "evening_rush_5pm_9pm": 15.0
+      },
+      "weekend": {
+        "morning_8am_12pm": 30.0,
+        "afternoon_12pm_5pm": 25.0,
+        "evening_5pm_10pm": 20.0
+      }
+    },
+    "specific_notes": "No specific sources found; local traffic is influenced by general city conditions."
+  },
+  {
+    "locality_name": "Karbigwan",
+    "location_profile": "Karbigwan is primarily a residential locality in Kanpur.",
+    "patterns": {
+      "weekday": {
+        "late_night_11pm_6am": 40.0,
+        "morning_rush_8am_11am": 15.0,
+        "mid_day_11am_4pm": 25.0,
+        "evening_rush_5pm_9pm": 15.0
+      },
+      "weekend": {
+        "morning_8am_12pm": 30.0,
+        "afternoon_12pm_5pm": 25.0,
+        "evening_5pm_10pm": 20.0
+      }
+    },
+    "specific_notes": "No specific sources found; local traffic is influenced by general city conditions."
+  },
+  {
+    "locality_name": "Kalyanpur",
+    "location_profile": "Kalyanpur is primarily a residential locality in Kanpur with some institutional areas (like university campuses).",
+    "patterns": {
+      "weekday": {
+        "late_night_11pm_6am": 35.0,
+        "morning_rush_8am_11am": 10.0,
+        "mid_day_11am_4pm": 25.0,
+        "evening_rush_5pm_9pm": 15.0
+      },
+      "weekend": {
+        "morning_8am_12pm": 30.0,
+        "afternoon_12pm_5pm": 25.0,
+        "evening_5pm_10pm": 20.0
+      }
+    },
+    "specific_notes": "Presence of university campuses (IITK, CSJMU) means morning and evening peaks. Many students and staff commute at class times."
+  },
+  {
+    "locality_name": "Keshavpuram",
+    "location_profile": "Keshavpuram is primarily a residential locality in Kanpur.",
+    "patterns": {
+      "weekday": {
+        "late_night_11pm_6am": 40.0,
+        "morning_rush_8am_11am": 15.0,
+        "mid_day_11am_4pm": 25.0,
+        "evening_rush_5pm_9pm": 15.0
+      },
+      "weekend": {
+        "morning_8am_12pm": 30.0,
+        "afternoon_12pm_5pm": 25.0,
+        "evening_5pm_10pm": 20.0
+      }
+    },
+    "specific_notes": "No specific sources found; local traffic is influenced by general city conditions."
+  },
+  {
+    "locality_name": "Khalasi Line",
+    "location_profile": "Khalasi Line is primarily a residential locality in Kanpur.",
+    "patterns": {
+      "weekday": {
+        "late_night_11pm_6am": 40.0,
+        "morning_rush_8am_11am": 15.0,
+        "mid_day_11am_4pm": 25.0,
+        "evening_rush_5pm_9pm": 15.0
+      },
+      "weekend": {
+        "morning_8am_12pm": 30.0,
+        "afternoon_12pm_5pm": 25.0,
+        "evening_5pm_10pm": 20.0
+      }
+    },
+    "specific_notes": "No specific sources found; local traffic is influenced by general city conditions."
+  },
+  {
+    "locality_name": "Krishna Nagar",
+    "location_profile": "Krishna Nagar is primarily a residential locality in Kanpur.",
+    "patterns": {
+      "weekday": {
+        "late_night_11pm_6am": 40.0,
+        "morning_rush_8am_11am": 15.0,
+        "mid_day_11am_4pm": 25.0,
+        "evening_rush_5pm_9pm": 15.0
+      },
+      "weekend": {
+        "morning_8am_12pm": 30.0,
+        "afternoon_12pm_5pm": 25.0,
+        "evening_5pm_10pm": 20.0
+      }
+    },
+    "specific_notes": "No specific sources found; local traffic is influenced by general city conditions."
+  },
+  {
+    "locality_name": "Kidwai Nagar",
+    "location_profile": "Kidwai Nagar is a large and well-established upscale locality, famed for its luxurious homes and modern infrastructure:contentReference[oaicite:11]{index=11}. It includes well-maintained parks, schools, and shopping areas, catering to a high-income population.",
+    "patterns": {
+      "weekday": {
+        "late_night_11pm_6am": 40.0,
+        "morning_rush_8am_11am": 15.0,
+        "mid_day_11am_4pm": 25.0,
+        "evening_rush_5pm_9pm": 15.0
+      },
+      "weekend": {
+        "morning_8am_12pm": 30.0,
+        "afternoon_12pm_5pm": 25.0,
+        "evening_5pm_10pm": 20.0
+      }
+    },
+    "specific_notes": "Traffic can be heavy during morning and evening commutes. Some roads serve as through routes to other parts of the city."
+  },
+  {
+    "locality_name": "Khyora",
+    "location_profile": "Khyora is primarily a residential locality in Kanpur.",
+    "patterns": {
+      "weekday": {
+        "late_night_11pm_6am": 40.0,
+        "morning_rush_8am_11am": 15.0,
+        "mid_day_11am_4pm": 25.0,
+        "evening_rush_5pm_9pm": 15.0
+      },
+      "weekend": {
+        "morning_8am_12pm": 30.0,
+        "afternoon_12pm_5pm": 25.0,
+        "evening_5pm_10pm": 20.0
+      }
+    },
+    "specific_notes": "No specific sources found; local traffic is influenced by general city conditions."
+  },
+  {
+    "locality_name": "Khujaupur",
+    "location_profile": "Khujaupur is primarily a residential locality in Kanpur.",
+    "patterns": {
+      "weekday": {
+        "late_night_11pm_6am": 40.0,
+        "morning_rush_8am_11am": 15.0,
+        "mid_day_11am_4pm": 25.0,
+        "evening_rush_5pm_9pm": 15.0
+      },
+      "weekend": {
+        "morning_8am_12pm": 30.0,
+        "afternoon_12pm_5pm": 25.0,
+        "evening_5pm_10pm": 20.0
+      }
+    },
+    "specific_notes": "No specific sources found; local traffic is influenced by general city conditions."
+  },
+  {
+    "locality_name": "Kakadeo",
+    "location_profile": "Kakadeo is a high-end residential area known for its opulent homes and serene environment:contentReference[oaicite:12]{index=12}. It features wide roads and greenery, and is adjacent to educational institutions and retail centers.",
+    "patterns": {
+      "weekday": {
+        "late_night_11pm_6am": 35.0,
+        "morning_rush_8am_11am": 15.0,
+        "mid_day_11am_4pm": 25.0,
+        "evening_rush_5pm_9pm": 15.0
+      },
+      "weekend": {
+        "morning_8am_12pm": 30.0,
+        "afternoon_12pm_5pm": 25.0,
+        "evening_5pm_10pm": 20.0
+      }
+    },
+    "specific_notes": "Its proximity to Lucknow Road leads to commuter traffic. Overall traffic is relatively low outside peak commute times."
+  },
+  {
+    "locality_name": "Juhi",
+    "location_profile": "Juhi is primarily a residential locality in Kanpur.",
+    "patterns": {
+      "weekday": {
+        "late_night_11pm_6am": 40.0,
+        "morning_rush_8am_11am": 15.0,
+        "mid_day_11am_4pm": 25.0,
+        "evening_rush_5pm_9pm": 15.0
+      },
+      "weekend": {
+        "morning_8am_12pm": 30.0,
+        "afternoon_12pm_5pm": 25.0,
+        "evening_5pm_10pm": 20.0
+      }
+    },
+    "specific_notes": "No specific sources found; local traffic is influenced by general city conditions."
+  },
+  {
+    "locality_name": "Highway City",
+    "location_profile": "Highway City is primarily a residential locality in Kanpur.",
+    "patterns": {
+      "weekday": {
+        "late_night_11pm_6am": 40.0,
+        "morning_rush_8am_11am": 15.0,
+        "mid_day_11am_4pm": 25.0,
+        "evening_rush_5pm_9pm": 15.0
+      },
+      "weekend": {
+        "morning_8am_12pm": 30.0,
+        "afternoon_12pm_5pm": 25.0,
+        "evening_5pm_10pm": 20.0
+      }
+    },
+    "specific_notes": "No specific sources found; local traffic is influenced by general city conditions."
+  },
+  {
+    "locality_name": "Harsh Nagar",
+    "location_profile": "Harsh Nagar is primarily a residential locality in Kanpur.",
+    "patterns": {
+      "weekday": {
+        "late_night_11pm_6am": 40.0,
+        "morning_rush_8am_11am": 15.0,
+        "mid_day_11am_4pm": 25.0,
+        "evening_rush_5pm_9pm": 15.0
+      },
+      "weekend": {
+        "morning_8am_12pm": 30.0,
+        "afternoon_12pm_5pm": 25.0,
+        "evening_5pm_10pm": 20.0
+      }
+    },
+    "specific_notes": "No specific sources found; local traffic is influenced by general city conditions."
+  },
+  {
+    "locality_name": "Hanspuram",
+    "location_profile": "Hanspuram is primarily a residential locality in Kanpur.",
+    "patterns": {
+      "weekday": {
+        "late_night_11pm_6am": 40.0,
+        "morning_rush_8am_11am": 15.0,
+        "mid_day_11am_4pm": 25.0,
+        "evening_rush_5pm_9pm": 15.0
+      },
+      "weekend": {
+        "morning_8am_12pm": 30.0,
+        "afternoon_12pm_5pm": 25.0,
+        "evening_5pm_10pm": 20.0
+      }
+    },
+    "specific_notes": "No specific sources found; local traffic is influenced by general city conditions."
+  },
+  {
+    "locality_name": "Gujaini",
+    "location_profile": "Gujaini is primarily a residential locality in Kanpur.",
+    "patterns": {
+      "weekday": {
+        "late_night_11pm_6am": 40.0,
+        "morning_rush_8am_11am": 15.0,
+        "mid_day_11am_4pm": 25.0,
+        "evening_rush_5pm_9pm": 15.0
+      },
+      "weekend": {
+        "morning_8am_12pm": 30.0,
+        "afternoon_12pm_5pm": 25.0,
+        "evening_5pm_10pm": 20.0
+      }
+    },
+    "specific_notes": "No specific sources found; local traffic is influenced by general city conditions."
+  },
+  {
+    "locality_name": "Indira Nagar",
+    "location_profile": "Indira Nagar is primarily a residential locality in Kanpur.",
+    "patterns": {
+      "weekday": {
+        "late_night_11pm_6am": 40.0,
+        "morning_rush_8am_11am": 15.0,
+        "mid_day_11am_4pm": 25.0,
+        "evening_rush_5pm_9pm": 15.0
+      },
+      "weekend": {
+        "morning_8am_12pm": 30.0,
+        "afternoon_12pm_5pm": 25.0,
+        "evening_5pm_10pm": 20.0
+      }
+    },
+    "specific_notes": "No specific sources found; local traffic is influenced by general city conditions."
+  },
+  {
+    "locality_name": "J K Puri",
+    "location_profile": "J K Puri is primarily a residential locality in Kanpur.",
+    "patterns": {
+      "weekday": {
+        "late_night_11pm_6am": 40.0,
+        "morning_rush_8am_11am": 15.0,
+        "mid_day_11am_4pm": 25.0,
+        "evening_rush_5pm_9pm": 15.0
+      },
+      "weekend": {
+        "morning_8am_12pm": 30.0,
+        "afternoon_12pm_5pm": 25.0,
+        "evening_5pm_10pm": 20.0
+      }
+    },
+    "specific_notes": "No specific sources found; local traffic is influenced by general city conditions."
+  },
+  {
+    "locality_name": "Jawahar Puram",
+    "location_profile": "Jawahar Puram is primarily a residential locality in Kanpur.",
+    "patterns": {
+      "weekday": {
+        "late_night_11pm_6am": 40.0,
+        "morning_rush_8am_11am": 15.0,
+        "mid_day_11am_4pm": 25.0,
+        "evening_rush_5pm_9pm": 15.0
+      },
+      "weekend": {
+        "morning_8am_12pm": 30.0,
+        "afternoon_12pm_5pm": 25.0,
+        "evening_5pm_10pm": 20.0
+      }
+    },
+    "specific_notes": "No specific sources found; local traffic is influenced by general city conditions."
+  },
+  {
+    "locality_name": "Jarauli",
+    "location_profile": "Jarauli is primarily a residential locality in Kanpur.",
+    "patterns": {
+      "weekday": {
+        "late_night_11pm_6am": 40.0,
+        "morning_rush_8am_11am": 15.0,
+        "mid_day_11am_4pm": 25.0,
+        "evening_rush_5pm_9pm": 15.0
+      },
+      "weekend": {
+        "morning_8am_12pm": 30.0,
+        "afternoon_12pm_5pm": 25.0,
+        "evening_5pm_10pm": 20.0
+      }
+    },
+    "specific_notes": "No specific sources found; local traffic is influenced by general city conditions."
+  },
+  {
+    "locality_name": "Jajmau",
+    "location_profile": "Jajmau is a large industrial locality famous for its leather tanneries:contentReference[oaicite:13]{index=13}. It has about 250 active tanneries:contentReference[oaicite:14]{index=14}, making it a core cluster for leather processing.",
+    "patterns": {
+      "weekday": {
+        "late_night_11pm_6am": 25.0,
+        "morning_rush_8am_11am": 12.0,
+        "mid_day_11am_4pm": 15.0,
+        "evening_rush_5pm_9pm": 10.0
+      },
+      "weekend": {
+        "morning_8am_12pm": 20.0,
+        "afternoon_12pm_5pm": 15.0,
+        "evening_5pm_10pm": 10.0
+      }
+    },
+    "specific_notes": "The tannery activity results in heavy truck traffic and a high load of goods movement. Local chemical and tanning plant outputs also contribute to congestion, especially during operational hours."
+  },
+  {
+    "locality_name": "Akbarpur",
+    "location_profile": "Akbarpur is primarily a residential locality in Kanpur.",
+    "patterns": {
+      "weekday": {
+        "late_night_11pm_6am": 40.0,
+        "morning_rush_8am_11am": 15.0,
+        "mid_day_11am_4pm": 25.0,
+        "evening_rush_5pm_9pm": 15.0
+      },
+      "weekend": {
+        "morning_8am_12pm": 30.0,
+        "afternoon_12pm_5pm": 25.0,
+        "evening_5pm_10pm": 20.0
+      }
+    },
+    "specific_notes": "No specific sources found; local traffic is influenced by general city conditions."
+  }
+]
