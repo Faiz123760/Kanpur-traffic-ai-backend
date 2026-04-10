@@ -61,7 +61,7 @@ app.post('/api/predict', async (req, res) => {
 
     const pythonPath = process.env.PYTHON_PATH || 'python';
     const pythonProcess = spawn(pythonPath, [
-        path.join(__dirname, '../predict.py'),
+        path.join(__dirname, './predict.py'),
         origin, day_type, time_slot, weather
     ]);
 

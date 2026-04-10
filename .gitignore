@@ -1,5 +1,5 @@
 # 🔒 Security
-.env
+backend/.env
 
 # 📦 Dependencies
 node_modules/
@@ -11,11 +11,11 @@ frontend/build/
 dist/
 
 # 🐍 Python
-__pycache__/
-*.py[cod]
-*$py.class
-venv/
-.venv/
+backend/__pycache__/
+backend/*.py[cod]
+backend/*$py.class
+backend/venv/
+backend/.venv/
 
 # ⚙️ OS Files
 .DS_Store
